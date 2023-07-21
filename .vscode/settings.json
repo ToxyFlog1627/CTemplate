@@ -1,0 +1,10 @@
+{
+    "editor.defaultFormatter": "xaver.clang-format",
+    "files.associations": {
+        "stdio.h": "c",
+        "vector": "cpp",
+        "cstdio": "cpp",
+        "cstring": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}
